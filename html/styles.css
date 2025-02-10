@@ -25,7 +25,9 @@ background-color: red;
 }
 
 .subsection.header{
-    background-color: blue;
+    /* background-color: blue; */
+    font-weight: bold;
+    text-align: center;
 }
 
 .subsection#preview {
